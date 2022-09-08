@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Dhanarajb/redux-student-form/static/js/main.c0a674fc.chunk.js",
+    "main.js.map": "/Dhanarajb/redux-student-form/static/js/main.c0a674fc.chunk.js.map",
+    "runtime-main.js": "/Dhanarajb/redux-student-form/static/js/runtime-main.b672c088.js",
+    "runtime-main.js.map": "/Dhanarajb/redux-student-form/static/js/runtime-main.b672c088.js.map",
+    "static/js/2.d38b3bfd.chunk.js": "/Dhanarajb/redux-student-form/static/js/2.d38b3bfd.chunk.js",
+    "static/js/2.d38b3bfd.chunk.js.map": "/Dhanarajb/redux-student-form/static/js/2.d38b3bfd.chunk.js.map",
+    "index.html": "/Dhanarajb/redux-student-form/index.html",
+    "static/js/2.d38b3bfd.chunk.js.LICENSE.txt": "/Dhanarajb/redux-student-form/static/js/2.d38b3bfd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b672c088.js",
+    "static/js/2.d38b3bfd.chunk.js",
+    "static/js/main.c0a674fc.chunk.js"
+  ]
+}
